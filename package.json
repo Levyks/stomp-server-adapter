@@ -1,6 +1,6 @@
 {
   "name": "stomp-server-adapter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A transport-agnostic STOMP protocol implementation in TypeScript",
   "type": "commonjs",
   "main": "./dist/index.js",
